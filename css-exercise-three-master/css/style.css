@@ -31,16 +31,19 @@ nav {
 height: 70px;
 clear: both;
 border-bottom: 1px solid darkgrey;
+width: 100%;
 }
 
 .content{
 display: inline-block;
 padding: 10px;
+width: 95%
+
 }
 
 .arrow{
 display: inline-block;
-padding-left: 0px;
+
 }
 
 h1{
