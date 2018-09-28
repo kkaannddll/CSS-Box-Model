@@ -32,6 +32,12 @@ height: 70px;
 clear: both;
 border-bottom: 1px solid darkgrey;
 width: 100%;
+hover: darkgrey;
+
+}
+
+.location-hover{
+  background-color: darkgrey;
 }
 
 .content{
@@ -46,13 +52,13 @@ display: inline-block;
 
 }
 
-h1{
+.restaurant-list h1{
   font-size: 18px;
   font-weight: bold;
 }
 
 
-h3{
+.restaurant-list h3{
   font-size: 14px;
   padding-top: 6px;
 
